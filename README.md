@@ -5,5 +5,6 @@ By supplying an IP address, this tool will perform passive information gathering
 
 ## Usage
 
-`grape.sh -4 ip.add.re.ss` will collect the information on that IP address and display it to STDOUT
+`grape.sh -4 ip.add.re.ss` will collect the information on that IP address and display it to STDOUT for you to review.
+
 IPv6 is coming
